@@ -5,9 +5,9 @@
 我是在淘宝上购买的nano，附带64GB的内存卡，已经为我烧写好了ubuntu系统，因此这里按照下图组装完成之后，
 直接上电启动，直接进入ubuntu用户设置。
 
-<img src="https://github.com/ZhangChuann/my_jetson/tree/master/docs/images/1_jet_install_1.jpg">
+<img src="https://github.com/ZhangChuann/my_jetson/raw/master/docs/images/1_jet_install_1.jpg">
 
-<img src="https://github.com/ZhangChuann/my_jetson/tree/master/docs/images/1_jet_install_2.jpg">
+<img src="https://github.com/ZhangChuann/my_jetson/raw/master/docs/images/1_jet_install_2.jpg">
 
 ## （2）远程SSH到自己NANO
 
@@ -18,7 +18,7 @@
 
 
 
-<img src="https://github.com/ZhangChuann/my_jetson/tree/master/docs/images/1_mobaxterm.jpg">
+<img src="https://github.com/ZhangChuann/my_jetson/raw/master/docs/images/1_mobaxterm.jpg">
 
 ## (3) 设置Samba远程资源管理
 
