@@ -35,7 +35,8 @@ force group = nogroup
 sudo touch /etc/samba/smbpasswd  //设置远程访问磁盘时的密码　  
 sudo smbpasswd -a myname   //myname 是系统账户名。  
 
-service smbd restart //重启 samba
+service smbd restart //重启 samba  
+
 结果演示
 ---------------------
 <img src="https://github.com/ZhangChuann/my_jetson/raw/master/docs/images/1_jet_instrall_3.png">
